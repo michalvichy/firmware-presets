@@ -5,7 +5,6 @@
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: Analog
 #$ AUTHOR: ColorfulPotato
-#$ PARSER: MARKED
 #$ INCLUDE: presets/4.3/osd/defaults.txt
 
 set osd_vbat_pos = 2401
