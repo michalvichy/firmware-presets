@@ -1,0 +1,11 @@
+#$ TITLE: Default Raceband VTXs
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: VTX
+#$ STATUS: COMMUNITY
+#$ KEYWORDS:  vtx, vtx table, HDzero, SA 2.1, digital, whoop, whoop lite, race v1, race v2, freestyle, tx5m.1, MSP VTX
+#$ AUTHOR: ColorfulPotato
+
+# vtxtable
+vtxtable bands 1
+vtxtable channels 8
+vtxtable band 1 RACEBAND R FACTORY 5658 5695 5732 5769 5806 5843 5880 5917

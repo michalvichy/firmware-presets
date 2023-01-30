@@ -1,0 +1,14 @@
+#$ TITLE: ColorfulPotato's default modes
+#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: MODES
+#$ STATUS: COMMUNITY
+#$ AUTHOR: ColorfulPotato
+#$ INCLUDE: presets/4.3/modes/defaults.txt
+
+# map
+map TAER1234
+
+# aux
+aux 0 0 0 1700 2100 0 0
+aux 1 13 2 1700 2100 0 0
